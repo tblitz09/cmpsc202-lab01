@@ -1,0 +1,3 @@
+1. Our baseline algorithm started off relatively sluggish compared to the optimized algorithm. The biggest spike was around 500 and then steadily increased as the array length went on. 
+2. It took the algorithm about a second to do the array length of 5000. 1,000,000/5000 is 200, so the estimated time would be 200 seconds. 
+3. It took the algorithm about 0.0004 seconds to do the array length of 5000. As said before, the division comes out to 200. 200 * 0.0004 = 0.08, so the estimated time would be about 0.08 seconds. 
